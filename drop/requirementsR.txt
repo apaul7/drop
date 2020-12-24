@@ -13,3 +13,4 @@ dplyr
 tidyr	
 magrittr	
 devtools	
+BSgenome.Hsapiens.UCSC.hg38	
